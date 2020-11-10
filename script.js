@@ -1,9 +1,9 @@
 // Global variables.
 const buttonEl = document.querySelector(".valdLedare");
-selectedPersonEl = document.querySelector(".pickOne");
-partiLedareEl = document.querySelector(".ledare");
-partiEl = document.querySelector(".parti");
-informationEl = document.querySelector(".information");
+const selectedPersonEl = document.querySelector(".pickOne");
+const partiLedareEl = document.querySelector(".ledare");
+const partiEl = document.querySelector(".parti");
+const informationEl = document.querySelector(".information");
 
 // Immediatly Invoked Function Expression.
 (function () {
